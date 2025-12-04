@@ -20,6 +20,6 @@
 >>>>>>> b295ca9 (Updated design and fixed bugmmms)
     <img style="width: 300px;height:auto;" src="./img/img1.jpeg" alt="">
     <img style="width: 300px;height:auto;" src="./img/img1.jpeg" alt="">
-    <img style="width: 300px;height:auto;" src="./img/img1.jpeg" alt="">
+    <img style="width: 100vw;height:auto;" src="./img/img1.jpeg" alt="">
 </body>
 </html>
