@@ -8,7 +8,16 @@
 <body>
     <h1>Chanchal Kumar Laha new</h1>
     <h1>Successfully run devops CI/CD Pipeline.</h1>
+<<<<<<< HEAD
     <img style="width: 300px;height:auto;" src="./img/img1.jpeg" alt=""> 
+=======
+    <h1>Successfully run devops CI/CD Pipeline.</h1>
+    <h1>Successfully run devops CI/CD Pipeline.</h1>
+    <h1>Successfully run devops CI/CD Pipeline.</h1>
+    <h1>Successfully run devops CI/CD Pipeline.</h1>
+    <h1>Successfully run devops CI/CD Pipeline.</h1>
+    <img style="width: 300px;height:auto;" src="./img/img1.jpeg" alt="">
+>>>>>>> b295ca9 (Updated design and fixed bugmmms)
     <img style="width: 300px;height:auto;" src="./img/img1.jpeg" alt="">
     <img style="width: 300px;height:auto;" src="./img/img1.jpeg" alt="">
     <img style="width: 300px;height:auto;" src="./img/img1.jpeg" alt="">
